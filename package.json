@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/David.McPherson/rust-dark-syntax",
+  "repository": "https://github.com/DavidMcPherson/rust-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
